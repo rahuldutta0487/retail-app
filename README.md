@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail E-Commerce Application
 
 ## Frontend Setup
@@ -15,3 +16,6 @@ cd backend
 pip install -r requirements.txt
 
 python app.py
+=======
+# retail-app
+>>>>>>> 722c3e9be73889434be9660c0258c151bac0274a
