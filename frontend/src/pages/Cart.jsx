@@ -92,7 +92,7 @@ function Cart() {
 
                 <button
                   onClick={clearCart}
-                  className="bg-gray-700 text-white px-6 py-3 rounded hover:bg-gray-800"
+                  className="bg-gray-700   text-white px-6 py-3 rounded hover:bg-gray-800"
                 >
                   Clear Cart
                 </button>
